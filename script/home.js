@@ -1,6 +1,6 @@
 export function homeSectionFunctionality() {
   // display Skills
-  const mySkills = ["Programmer", "Basketball player"];
+  const mySkills = ["Software engineer", "Basketball player"];
   let stringIndex = 0;
   let arrayIndex = 0;
   let isAdding = true;
